@@ -1,4 +1,4 @@
-# Descripción del juego.
+# Descripción del juego
 
 Consiste en un videojuego cooperativo 2D de terror psicológico, pensado para 2 jugadores, donde ambos deben explorar habitaciones, inspeccionar objetos y resolver puzzles para avanzar.
 
@@ -27,7 +27,7 @@ Flujo del juego.
 - Último puzle.
 - Final.
 
-# Especificaciones tecnológicas.
+# Especificaciones tecnológicas
 
 Utilizaremos Vue ya que permitirá organizar el proyecto mediante componentes reutilizables, manejar pantallas del juego y actualizar visualmente la interfaz cuando cambie el estado de los jugadores.
 
@@ -43,4 +43,4 @@ Vue Router ayudará a la fluidez de la web en la que estará desarrollado el jue
 
 # Mockups.
 
-<img src="https://drive.google.com/file/d/1lpNhaNeD--VDxzSkbIT0dzp3R81_CoCu/view?usp=drive_link" width="500" alt="Mockups Inicio, inventario y posible screamer.">
+![Mockups inicio, inventario y posible screamer](https://drive.google.com/file/d/1lpNhaNeD--VDxzSkbIT0dzp3R81_CoCu/view?usp=drive_link)
